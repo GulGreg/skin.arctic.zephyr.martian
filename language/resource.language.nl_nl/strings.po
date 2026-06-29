@@ -54,11 +54,11 @@ msgid "Netflix"
 msgstr "Netflix"
 
 msgctxt "#31017"
-msgid "Colored icon media flags"
+msgid "Coloured icon media flags"
 msgstr "Gekleurde media informatie iconen"
 
 msgctxt "#31019"
-msgid "Supported Addons"
+msgid "Supported add-ons"
 msgstr "Ondersteunde add-ons"
 
 msgctxt "#31020"
@@ -228,6 +228,10 @@ msgstr "Willekeurige albums"
 msgctxt "#31068"
 msgid "Random Artists"
 msgstr "Willekeurige artiesten"
+
+msgctxt "#31069"
+msgid "Next up"
+msgstr "Volgende"
 
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
@@ -430,7 +434,7 @@ msgid "Set your favourite settings"
 msgstr "Stel je favoriete instellingen in"
 
 msgctxt "#31126"
-msgid "Accent colors"
+msgid "Accent colours"
 msgstr "Accentkleuren"
 
 msgctxt "#31133"
@@ -480,6 +484,10 @@ msgstr "Animeer fanart"
 msgctxt "#31147"
 msgid "Extra Info"
 msgstr "Extra Info"
+
+msgctxt "#31148"
+msgid "Wrap list"
+msgstr "Lijst inpakken"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
@@ -826,11 +834,11 @@ msgid "Use minimal busy loader in header"
 msgstr "Gebruik minimalistische bezig-animatie in kop"
 
 msgctxt "#31238"
-msgid "Select highlight color"
+msgid "Select highlight colour"
 msgstr "Selecteer accentkleur"
 
 msgctxt "#31239"
-msgid "Current Color"
+msgid "Current Colour"
 msgstr "Huidige kleur"
 
 msgctxt "#31240"
@@ -1054,7 +1062,7 @@ msgid "Show plot on HUB"
 msgstr "Toon plot op hub"
 
 msgctxt "#31300"
-msgid "Colors"
+msgid "Colours"
 msgstr "Kleuren"
 
 msgctxt "#31301"
@@ -1253,6 +1261,10 @@ msgctxt "#31366"
 msgid "Show Filenames"
 msgstr "Toon bestandsnamen"
 
+msgctxt "#31368"
+msgid "Show unwatched episodes count"
+msgstr "Toon niet-bekeken afleveringen teller"
+
 msgctxt "#31369"
 msgid "Shifted ClearArt"
 msgstr "Shifted ClearArt"
@@ -1330,7 +1342,7 @@ msgid "Multi-Widgets"
 msgstr "Multi-widgets"
 
 msgctxt "#31395"
-msgid "Gradient color for "
+msgid "Gradient colour for "
 msgstr "Overgangskleur voor "
 
 msgctxt "#31396"
@@ -1386,12 +1398,12 @@ msgid "Seconds"
 msgstr "Seconden"
 
 msgctxt "#31429"
-msgid "more..."
-msgstr "meer..."
+msgid "Show more..."
+msgstr "Laat meer zien..."
 
 msgctxt "#31430"
-msgid "item"
-msgstr "item"
+msgid "Limited widgets have \"more items\" object"
+msgstr "Beperkte widgets hebben een object \"meer items\""
 
 msgctxt "#31431"
 msgid "Use old Arctic Zephyr window animation"
@@ -1514,11 +1526,11 @@ msgid "disabled"
 msgstr "uitgeschakeld"
 
 msgctxt "#31468"
-msgid "Required addons"
+msgid "Required add-ons"
 msgstr "Vereist add-ons"
 
 msgctxt "#31469"
-msgid "Recommended addons"
+msgid "Recommended add-ons"
 msgstr "Aanbevolen add-ons"
 
 msgctxt "#31472"
@@ -1586,7 +1598,7 @@ msgid "CPU"
 msgstr "CPU"
 
 msgctxt "#31489"
-msgid "Underlined homemenu items"
+msgid "Underlined home menu items"
 msgstr "Onderstreepte startmenu items"
 
 msgctxt "#31492"
@@ -1817,10 +1829,6 @@ msgctxt "#31623"
 msgid "If home menu is focused, jump to widgets on back"
 msgstr "Als het startmenu is gefocust, spring dan naar de widgets achter"
 
-msgctxt "#31625"
-msgid "Disable addons fanart"
-msgstr "Deactiveer fanart add-on"
-
 msgctxt "#31630"
 msgid "Hub widget content type"
 msgstr "Hub widget inhoudtype"
@@ -1886,7 +1894,7 @@ msgid "Show detailed info when video starts (in seconds)"
 msgstr "Toon gedetailleerde informatie wanneer de video begint (in seconden)"
 
 msgctxt "#31679"
-msgid "Color presets"
+msgid "Colour presets"
 msgstr "Kleuren voorinstellingen"
 
 msgctxt "#31680"
@@ -1913,16 +1921,12 @@ msgctxt "#31693"
 msgid "Online"
 msgstr "Online"
 
-msgctxt "#31694"
-msgid "Game studio/flag icons"
-msgstr "Game studio/information iconen"
-
 msgctxt "#31699"
-msgid "Pick a color..."
+msgid "Pick a colour..."
 msgstr "Kies een kleur..."
 
 msgctxt "#31700"
-msgid "Set color"
+msgid "Set colour"
 msgstr "Stel kleur in"
 
 msgctxt "#31702"

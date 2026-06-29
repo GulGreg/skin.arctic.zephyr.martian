@@ -54,11 +54,11 @@ msgid "Netflix"
 msgstr "Netflix"
 
 msgctxt "#31017"
-msgid "Colored icon media flags"
+msgid "Coloured icon media flags"
 msgstr "Medijske zastavice u boji s ikonama"
 
 msgctxt "#31019"
-msgid "Supported Addons"
+msgid "Supported add-ons"
 msgstr "Podržani dodaci"
 
 msgctxt "#31020"
@@ -426,7 +426,7 @@ msgid "Set your favourite settings"
 msgstr "Postavite svoje omiljene postavke"
 
 msgctxt "#31126"
-msgid "Accent colors"
+msgid "Accent colours"
 msgstr "Boje naglaska"
 
 msgctxt "#31133"
@@ -476,6 +476,10 @@ msgstr "Animiraj fanart"
 msgctxt "#31147"
 msgid "Extra Info"
 msgstr "Dodatne informacije"
+
+msgctxt "#31148"
+msgid "Wrap list"
+msgstr "Zamotavanje liste"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
@@ -822,11 +826,11 @@ msgid "Use minimal busy loader in header"
 msgstr "Koristite minimalno zauzet učitivač u zaglavlju"
 
 msgctxt "#31238"
-msgid "Select highlight color"
+msgid "Select highlight colour"
 msgstr "Odaberite boju isticanja"
 
 msgctxt "#31239"
-msgid "Current Color"
+msgid "Current Colour"
 msgstr "Trenutna boja"
 
 msgctxt "#31240"
@@ -1050,7 +1054,7 @@ msgid "Show plot on HUB"
 msgstr "Prikaži grafikon na HUB-u"
 
 msgctxt "#31300"
-msgid "Colors"
+msgid "Colours"
 msgstr "Boje"
 
 msgctxt "#31301"
@@ -1249,6 +1253,10 @@ msgctxt "#31366"
 msgid "Show Filenames"
 msgstr "Prikaži nazive datoteka"
 
+msgctxt "#31368"
+msgid "Show unwatched episodes count"
+msgstr "Prikaži broj nepogledanih epizoda"
+
 msgctxt "#31369"
 msgid "Shifted ClearArt"
 msgstr "Pomaknuto ClearArt"
@@ -1326,7 +1334,7 @@ msgid "Multi-Widgets"
 msgstr "Višestruki vidžeti"
 
 msgctxt "#31395"
-msgid "Gradient color for "
+msgid "Gradient colour for "
 msgstr "Gradijentna boja za "
 
 msgctxt "#31396"
@@ -1380,14 +1388,6 @@ msgstr "Veliki široki"
 msgctxt "#31425"
 msgid "Seconds"
 msgstr "Sekunde"
-
-msgctxt "#31429"
-msgid "more..."
-msgstr "više..."
-
-msgctxt "#31430"
-msgid "item"
-msgstr "stavka"
 
 msgctxt "#31431"
 msgid "Use old Arctic Zephyr window animation"
@@ -1510,11 +1510,11 @@ msgid "disabled"
 msgstr "onemogućeno"
 
 msgctxt "#31468"
-msgid "Required addons"
+msgid "Required add-ons"
 msgstr "Potrebni dodaci"
 
 msgctxt "#31469"
-msgid "Recommended addons"
+msgid "Recommended add-ons"
 msgstr "Preporučeni dodaci"
 
 msgctxt "#31472"
@@ -1547,7 +1547,7 @@ msgstr "HDR"
 
 msgctxt "#31481"
 msgid "Blu-ray / HD DVD / DVD / WEB-DL / TV"
-msgid "Blu-ray / HD DVD / DVD / WEB-DL / TV"
+msgstr "Blu-ray / HD DVD / DVD / WEB-DL / TV"
 
 msgctxt "#31482"
 msgid "IMDb Top 250"
@@ -1574,7 +1574,7 @@ msgid "CPU"
 msgstr "Procesor"
 
 msgctxt "#31489"
-msgid "Underlined homemenu items"
+msgid "Underlined home menu items"
 msgstr "Podvučene stavke početnog menija"
 
 msgctxt "#31492"
@@ -1805,10 +1805,6 @@ msgctxt "#31623"
 msgid "If home menu is focused, jump to widgets on back"
 msgstr "Ako je fokus na početnom meniju, preskoči na vidžete na poleđini"
 
-msgctxt "#31625"
-msgid "Disable addons fanart"
-msgstr "Onemogući fanart dodataka"
-
 msgctxt "#31630"
 msgid "Hub widget content type"
 msgstr "Vrsta sadržaja vidžeta Hub-a"
@@ -1874,7 +1870,7 @@ msgid "Show detailed info when video starts (in seconds)"
 msgstr "Prikaži detaljne informacije kada video počne (u sekundama)"
 
 msgctxt "#31679"
-msgid "Color presets"
+msgid "Colour presets"
 msgstr "Unaprijed postavljene boje"
 
 msgctxt "#31680"
@@ -1901,16 +1897,12 @@ msgctxt "#31693"
 msgid "Online"
 msgstr "Na mreži"
 
-msgctxt "#31694"
-msgid "Game studio/flag icons"
-msgstr "Ikone studija za igre/zastavica"
-
 msgctxt "#31699"
-msgid "Pick a color..."
+msgid "Pick a colour..."
 msgstr "Izaberi boju..."
 
 msgctxt "#31700"
-msgid "Set color"
+msgid "Set colour"
 msgstr "Postavi boju"
 
 msgctxt "#31703"

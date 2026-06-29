@@ -53,11 +53,11 @@ msgid "Netflix"
 msgstr "넷플릭스"
 
 msgctxt "#31017"
-msgid "Colored icon media flags"
+msgid "Coloured icon media flags"
 msgstr "컬러 아이콘으로 미디어 정보 표시"
 
 msgctxt "#31019"
-msgid "Supported Addons"
+msgid "Supported add-ons"
 msgstr "스킨에 필요한 애드온"
 
 msgctxt "#31020"
@@ -425,7 +425,7 @@ msgid "Set your favourite settings"
 msgstr "좋아하는 설정으로 설정"
 
 msgctxt "#31126"
-msgid "Accent colors"
+msgid "Accent colours"
 msgstr "강조 색상"
 
 msgctxt "#31133"
@@ -475,6 +475,10 @@ msgstr "애니메이션 팬아트"
 msgctxt "#31147"
 msgid "Extra Info"
 msgstr "추가 정보"
+
+msgctxt "#31148"
+msgid "Wrap list"
+msgstr "포장 목록"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
@@ -821,11 +825,11 @@ msgid "Use minimal busy loader in header"
 msgstr "말머리에 단순하게 로딩 표시"
 
 msgctxt "#31238"
-msgid "Select highlight color"
+msgid "Select highlight colour"
 msgstr "하이라이트 색상 선택"
 
 msgctxt "#31239"
-msgid "Current Color"
+msgid "Current Colour"
 msgstr "현재 색상"
 
 msgctxt "#31240"
@@ -1049,7 +1053,7 @@ msgid "Show plot on HUB"
 msgstr "허브에 줄거리 표시"
 
 msgctxt "#31300"
-msgid "Colors"
+msgid "Colours"
 msgstr "색상"
 
 msgctxt "#31301"
@@ -1248,6 +1252,10 @@ msgctxt "#31366"
 msgid "Show Filenames"
 msgstr "파일 이름 표시"
 
+msgctxt "#31368"
+msgid "Show unwatched episodes count"
+msgstr "미시청 에피소드 수 표시"
+
 msgctxt "#31369"
 msgid "Shifted ClearArt"
 msgstr "시프티드 클리어아트"
@@ -1325,7 +1333,7 @@ msgid "Multi-Widgets"
 msgstr "멀티 위젯"
 
 msgctxt "#31395"
-msgid "Gradient color for "
+msgid "Gradient colour for "
 msgstr "그라데이션 색상 "
 
 msgctxt "#31396"
@@ -1379,14 +1387,6 @@ msgstr "빅 와이드"
 msgctxt "#31425"
 msgid "Seconds"
 msgstr "초"
-
-msgctxt "#31429"
-msgid "more..."
-msgstr "더 보기..."
-
-msgctxt "#31430"
-msgid "item"
-msgstr "위젯 항목 마지막에 \"목록 전체 보기\" 표시"
 
 msgctxt "#31431"
 msgid "Use old Arctic Zephyr window animation"
@@ -1509,11 +1509,11 @@ msgid "disabled"
 msgstr "사용 안 함"
 
 msgctxt "#31468"
-msgid "Required addons"
+msgid "Required add-ons"
 msgstr "필수 애드온"
 
 msgctxt "#31469"
-msgid "Recommended addons"
+msgid "Recommended add-ons"
 msgstr "추천 애드온"
 
 msgctxt "#31472"
@@ -1573,7 +1573,7 @@ msgid "CPU"
 msgstr "CPU"
 
 msgctxt "#31489"
-msgid "Underlined homemenu items"
+msgid "Underlined home menu items"
 msgstr ""
 
 msgctxt "#31492"
@@ -1804,10 +1804,6 @@ msgctxt "#31623"
 msgid "If home menu is focused, jump to widgets on back"
 msgstr ""
 
-msgctxt "#31625"
-msgid "Disable addons fanart"
-msgstr ""
-
 msgctxt "#31630"
 msgid "Hub widget content type"
 msgstr ""
@@ -1873,7 +1869,7 @@ msgid "Show detailed info when video starts (in seconds)"
 msgstr ""
 
 msgctxt "#31679"
-msgid "Color presets"
+msgid "Colour presets"
 msgstr ""
 
 msgctxt "#31680"
@@ -1900,16 +1896,12 @@ msgctxt "#31693"
 msgid "Online"
 msgstr ""
 
-msgctxt "#31694"
-msgid "Game studio/flag icons"
-msgstr ""
-
 msgctxt "#31699"
-msgid "Pick a color..."
+msgid "Pick a colour..."
 msgstr ""
 
 msgctxt "#31700"
-msgid "Set color"
+msgid "Set colour"
 msgstr ""
 
 msgctxt "#31703"

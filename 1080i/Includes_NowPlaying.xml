@@ -78,7 +78,7 @@
                 <include>HiddenListControl</include>
                 <include content="OnDirectionAction"><param name="ondirection" value="300" /></include>
                 <onfocus>SetProperty(shownowplayinginfo,1,home)</onfocus>
-                <content limit="1">$VAR[CurrentlyPlayingItem]</content>
+                <content limit="1" browse="never">$VAR[CurrentlyPlayingItem]</content>
             </control>
             <control type="button" id="4000" description="Helper">
                 <include>HiddenButton</include>
@@ -509,6 +509,28 @@
                 </control>
             </control>
         </control>
+    </include>
+
+    <include name="NowPlayingHeaderLabel">
+        <definition>
+        <param name="left" value="$PARAM[left]" default="0"/>
+        <param name="visible" value="$PARAM[visible]" default="true"/>
+        <control type="label">
+            <include content="def_font" condition="Skin.HasSetting(homemenu.netflix)">
+                <param name="font" value="LargeNetflix" />
+            </include>
+            <include content="def_font" condition="!Skin.HasSetting(homemenu.netflix)">
+                <param name="font" value="LargeNew" />
+            </include>
+            <width>100%</width>
+            <left>$PARAM[left]</left>
+            <align>left</align>
+            <textcolor>Dark1</textcolor>
+            <label>$PARAM[label]</label>
+            <include condition="Skin.HasSetting(labels.autoscroll)">LabelScroll</include>
+            <visible>$PARAM[visible]</visible>
+        </control>
+        </definition>
     </include>
 
     <include name="NowPlaying_AudioDiscArt">

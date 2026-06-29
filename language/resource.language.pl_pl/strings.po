@@ -54,11 +54,11 @@ msgid "Netflix"
 msgstr "Netflix"
 
 msgctxt "#31017"
-msgid "Colored icon media flags"
+msgid "Coloured icon media flags"
 msgstr "Kolorowe ikony oznaczeń multimedialnych"
 
 msgctxt "#31019"
-msgid "Supported Addons"
+msgid "Supported add-ons"
 msgstr "Wspierane dodatki"
 
 msgctxt "#31020"
@@ -228,6 +228,10 @@ msgstr "Losowe albumy"
 msgctxt "#31068"
 msgid "Random Artists"
 msgstr "Losowo artyści"
+
+msgctxt "#31069"
+msgid "Next up"
+msgstr "Następny"
 
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
@@ -430,7 +434,7 @@ msgid "Set your favourite settings"
 msgstr "Skonfiguruj swoje ulubione ustawienia"
 
 msgctxt "#31126"
-msgid "Accent colors"
+msgid "Accent colours"
 msgstr "Kolory akcentów"
 
 msgctxt "#31133"
@@ -480,6 +484,10 @@ msgstr "Animuj fototapetę"
 msgctxt "#31147"
 msgid "Extra Info"
 msgstr "Informacje dodatkowe"
+
+msgctxt "#31148"
+msgid "Wrap list"
+msgstr "Kolejka"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
@@ -826,11 +834,11 @@ msgid "Use minimal busy loader in header"
 msgstr "Używaj małego wskaźnika zajętości w nagłówku"
 
 msgctxt "#31238"
-msgid "Select highlight color"
+msgid "Select highlight colour"
 msgstr "Wybierz kolor zaznaczenia"
 
 msgctxt "#31239"
-msgid "Current Color"
+msgid "Current Colour"
 msgstr "Aktualny kolor"
 
 msgctxt "#31240"
@@ -1054,7 +1062,7 @@ msgid "Show plot on HUB"
 msgstr "Pokaż fabułę na HUB"
 
 msgctxt "#31300"
-msgid "Colors"
+msgid "Colours"
 msgstr "Kolory"
 
 msgctxt "#31301"
@@ -1253,6 +1261,10 @@ msgctxt "#31366"
 msgid "Show Filenames"
 msgstr "Pokaż nazwy plików"
 
+msgctxt "#31368"
+msgid "Show unwatched episodes count"
+msgstr "Pokaż licznik nieoglądanych odcinków"
+
 msgctxt "#31369"
 msgid "Shifted ClearArt"
 msgstr "Przesunięcie ClearArt"
@@ -1330,7 +1342,7 @@ msgid "Multi-Widgets"
 msgstr "Multi-Widżety"
 
 msgctxt "#31395"
-msgid "Gradient color for "
+msgid "Gradient colour for "
 msgstr "Kolor gradientu dla "
 
 msgctxt "#31396"
@@ -1386,12 +1398,12 @@ msgid "Seconds"
 msgstr "Sekund"
 
 msgctxt "#31429"
-msgid "more..."
-msgstr "więcej..."
+msgid "Show more..."
+msgstr "Zobacz więcej..."
 
 msgctxt "#31430"
-msgid "item"
-msgstr "pozycja"
+msgid "Limited widgets have \"more items\" object"
+msgstr "Pokazuj opcję \"zobacz więcej\" w widżetach z limitem"
 
 msgctxt "#31431"
 msgid "Use old Arctic Zephyr window animation"
@@ -1514,11 +1526,11 @@ msgid "disabled"
 msgstr "wyłączony"
 
 msgctxt "#31468"
-msgid "Required addons"
+msgid "Required add-ons"
 msgstr "Wymagane dodatki"
 
 msgctxt "#31469"
-msgid "Recommended addons"
+msgid "Recommended add-ons"
 msgstr "Polecane dodatki"
 
 msgctxt "#31472"
@@ -1586,7 +1598,7 @@ msgid "CPU"
 msgstr "Procesor"
 
 msgctxt "#31489"
-msgid "Underlined homemenu items"
+msgid "Underlined home menu items"
 msgstr "Podkreślaj pozycje menu głównego"
 
 msgctxt "#31492"
@@ -1817,10 +1829,6 @@ msgctxt "#31623"
 msgid "If home menu is focused, jump to widgets on back"
 msgstr "Jeśli menu główne jest skoncentrowane, przejdź z powrotem do widżetów"
 
-msgctxt "#31625"
-msgid "Disable addons fanart"
-msgstr "Wyłączenie dodatków fototapety"
-
 msgctxt "#31630"
 msgid "Hub widget content type"
 msgstr "Typ zawartości widgetu Hub"
@@ -1886,7 +1894,7 @@ msgid "Show detailed info when video starts (in seconds)"
 msgstr "Pokaż szczegółowe informacje, gdy uruchomi się wideo (w sekundach)"
 
 msgctxt "#31679"
-msgid "Color presets"
+msgid "Colour presets"
 msgstr "Ustawienia kolorów"
 
 msgctxt "#31680"
@@ -1913,16 +1921,12 @@ msgctxt "#31693"
 msgid "Online"
 msgstr "Online"
 
-msgctxt "#31694"
-msgid "Game studio/flag icons"
-msgstr "Studio gier/ ikony flagi"
-
 msgctxt "#31699"
-msgid "Pick a color..."
+msgid "Pick a colour..."
 msgstr "Wybierz kolor..."
 
 msgctxt "#31700"
-msgid "Set color"
+msgid "Set colour"
 msgstr "Ustaw kolor"
 
 msgctxt "#31702"

@@ -60,11 +60,11 @@ msgid "Netflix"
 msgstr "网飞"
 
 msgctxt "#31017"
-msgid "Colored icon media flags"
+msgid "Coloured icon media flags"
 msgstr "彩色图标媒体标识"
 
 msgctxt "#31019"
-msgid "Supported Addons"
+msgid "Supported add-ons"
 msgstr "支持的插件"
 
 msgctxt "#31020"
@@ -234,6 +234,10 @@ msgstr "随机专辑"
 msgctxt "#31068"
 msgid "Random Artists"
 msgstr "随机艺术家"
+
+msgctxt "#31069"
+msgid "Next up"
+msgstr "接下来"
 
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
@@ -440,7 +444,7 @@ msgid "Set your favourite settings"
 msgstr "确定你的收藏设置"
 
 msgctxt "#31126"
-msgid "Accent colors"
+msgid "Accent colours"
 msgstr "高亮颜色"
 
 msgctxt "#31133"
@@ -490,6 +494,10 @@ msgstr "动态背景图"
 msgctxt "#31147"
 msgid "Extra Info"
 msgstr "附加信息"
+
+msgctxt "#31148"
+msgid "Wrap list"
+msgstr "首尾相接列表"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
@@ -836,11 +844,11 @@ msgid "Use minimal busy loader in header"
 msgstr "在标题中使用负载最小的加载程序"
 
 msgctxt "#31238"
-msgid "Select highlight color"
+msgid "Select highlight colour"
 msgstr "选择高亮颜色"
 
 msgctxt "#31239"
-msgid "Current Color"
+msgid "Current Colour"
 msgstr "当前颜色"
 
 msgctxt "#31240"
@@ -1068,7 +1076,7 @@ msgid "Show plot on HUB"
 msgstr "在分类中心显示剧情简介"
 
 msgctxt "#31300"
-msgid "Colors"
+msgid "Colours"
 msgstr "颜色"
 
 msgctxt "#31301"
@@ -1275,6 +1283,10 @@ msgctxt "#31366"
 msgid "Show Filenames"
 msgstr "显示文件名"
 
+msgctxt "#31368"
+msgid "Show unwatched episodes count"
+msgstr "显示未观看的剧集数"
+
 msgctxt "#31369"
 msgid "Shifted ClearArt"
 msgstr "偏移透明艺术图"
@@ -1356,7 +1368,7 @@ msgid "Multi-Widgets"
 msgstr "多小组件"
 
 msgctxt "#31395"
-msgid "Gradient color for "
+msgid "Gradient colour for "
 msgstr "渐变叠加到 "
 
 msgctxt "#31396"
@@ -1420,12 +1432,12 @@ msgid "Seconds"
 msgstr "秒"
 
 msgctxt "#31429"
-msgid "more..."
-msgstr "更多…"
+msgid "Show more..."
+msgstr "显示更多..."
 
 msgctxt "#31430"
-msgid "item"
-msgstr "项"
+msgid "Limited widgets have \"more items\" object"
+msgstr "有“更多选项”物体的有限小部件"
 
 msgctxt "#31431"
 msgid "Use old Arctic Zephyr window animation"
@@ -1548,11 +1560,11 @@ msgid "disabled"
 msgstr "已禁用"
 
 msgctxt "#31468"
-msgid "Required addons"
+msgid "Required add-ons"
 msgstr "必需的插件"
 
 msgctxt "#31469"
-msgid "Recommended addons"
+msgid "Recommended add-ons"
 msgstr "推荐的插件"
 
 msgctxt "#31472"
@@ -1616,7 +1628,7 @@ msgid "CPU"
 msgstr "处理器"
 
 msgctxt "#31489"
-msgid "Underlined homemenu items"
+msgid "Underlined home menu items"
 msgstr "带下划线的主菜单项"
 
 msgctxt "#31492"
@@ -1855,10 +1867,6 @@ msgctxt "#31623"
 msgid "If home menu is focused, jump to widgets on back"
 msgstr "当主菜单处于聚焦状态时，按“返回键”跳转到小组件"
 
-msgctxt "#31625"
-msgid "Disable addons fanart"
-msgstr "禁用插件背景图"
-
 msgctxt "#31630"
 msgid "Hub widget content type"
 msgstr "分类中心小组件的内容样式"
@@ -1924,7 +1932,7 @@ msgid "Show detailed info when video starts (in seconds)"
 msgstr "视频开始时显示详细信息（秒）"
 
 msgctxt "#31679"
-msgid "Color presets"
+msgid "Colour presets"
 msgstr "颜色预设"
 
 msgctxt "#31680"
@@ -1951,16 +1959,12 @@ msgctxt "#31693"
 msgid "Online"
 msgstr "在线"
 
-msgctxt "#31694"
-msgid "Game studio/flag icons"
-msgstr "游戏工作室/旗帜图标"
-
 msgctxt "#31699"
-msgid "Pick a color..."
+msgid "Pick a colour..."
 msgstr "选择一种颜色..."
 
 msgctxt "#31700"
-msgid "Set color"
+msgid "Set colour"
 msgstr "设置颜色"
 
 msgctxt "#31702"
@@ -2184,15 +2188,15 @@ msgid "Simple Gray"
 msgstr "简约灰色"
 
 msgctxt "#31965"
-msgid "Highlight color"
+msgid "Highlight colour"
 msgstr "高亮颜色"
 
 msgctxt "#31966"
-msgid "Gradient color"
+msgid "Gradient colour"
 msgstr "渐变色"
 
 msgctxt "#31967"
-msgid "Customise color settings"
+msgid "Customise colour settings"
 msgstr "自定义颜色设置"
 
 msgctxt "#31968"
@@ -2251,10 +2255,6 @@ msgctxt "#31981"
 msgid "Default (Unicode)"
 msgstr "默认值（Unicode）"
 
-msgctxt "#31982"
-msgid "Lock position of focused item"
-msgstr "锁定聚焦项的位置"
-
 msgctxt "#31983"
 msgid "User rating overrides Kodi rating"
 msgstr "用户评级优先于 Kodi 评级"
@@ -2296,5 +2296,5 @@ msgid "Prefer online artwork"
 msgstr "优先选择在线艺术图片"
 
 msgctxt "#31993"
-msgid "Timed change of color scheme"
+msgid "Timed change of colour scheme"
 msgstr "定时切换配色方案"

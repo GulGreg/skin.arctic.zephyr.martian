@@ -54,11 +54,11 @@ msgid "Netflix"
 msgstr "Netflix"
 
 msgctxt "#31017"
-msgid "Colored icon media flags"
-msgstr "Bandeiras de mídia coloridas com ícones"
+msgid "Coloured icon media flags"
+msgstr "Bandeiras de mídia colouridas com ícones"
 
 msgctxt "#31019"
-msgid "Supported Addons"
+msgid "Supported add-ons"
 msgstr "Complementos suportados"
 
 msgctxt "#31020"
@@ -224,6 +224,10 @@ msgstr "Álbuns Aleatórios"
 msgctxt "#31068"
 msgid "Random Artists"
 msgstr "Artistas Aleatórios"
+
+msgctxt "#31069"
+msgid "Next up"
+msgstr "Próximo"
 
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
@@ -426,7 +430,7 @@ msgid "Set your favourite settings"
 msgstr "Defina suas configurações favoritas"
 
 msgctxt "#31126"
-msgid "Accent colors"
+msgid "Accent colours"
 msgstr "Cores de destaque"
 
 msgctxt "#31133"
@@ -476,6 +480,10 @@ msgstr "Fanart animado"
 msgctxt "#31147"
 msgid "Extra Info"
 msgstr "Informações Extras"
+
+msgctxt "#31148"
+msgid "Wrap list"
+msgstr "Lista de quebra"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
@@ -822,11 +830,11 @@ msgid "Use minimal busy loader in header"
 msgstr ""
 
 msgctxt "#31238"
-msgid "Select highlight color"
+msgid "Select highlight colour"
 msgstr ""
 
 msgctxt "#31239"
-msgid "Current Color"
+msgid "Current Colour"
 msgstr ""
 
 msgctxt "#31240"
@@ -1050,7 +1058,7 @@ msgid "Show plot on HUB"
 msgstr ""
 
 msgctxt "#31300"
-msgid "Colors"
+msgid "Colours"
 msgstr ""
 
 msgctxt "#31301"
@@ -1326,7 +1334,7 @@ msgid "Multi-Widgets"
 msgstr ""
 
 msgctxt "#31395"
-msgid "Gradient color for "
+msgid "Gradient colour for "
 msgstr ""
 
 msgctxt "#31396"
@@ -1382,12 +1390,12 @@ msgid "Seconds"
 msgstr "Segundos"
 
 msgctxt "#31429"
-msgid "more..."
-msgstr ""
+msgid "Show more..."
+msgstr "Mostrar mais..."
 
 msgctxt "#31430"
-msgid "item"
-msgstr ""
+msgid "Limited widgets have \"more items\" object"
+msgstr "Widget limitados tem objeto \”mais itens\”"
 
 msgctxt "#31431"
 msgid "Use old Arctic Zephyr window animation"
@@ -1510,11 +1518,11 @@ msgid "disabled"
 msgstr ""
 
 msgctxt "#31468"
-msgid "Required addons"
+msgid "Required add-ons"
 msgstr ""
 
 msgctxt "#31469"
-msgid "Recommended addons"
+msgid "Recommended add-ons"
 msgstr ""
 
 msgctxt "#31472"
@@ -1578,7 +1586,7 @@ msgid "CPU"
 msgstr "CPU"
 
 msgctxt "#31489"
-msgid "Underlined homemenu items"
+msgid "Underlined home menu items"
 msgstr ""
 
 msgctxt "#31492"
@@ -1809,10 +1817,6 @@ msgctxt "#31623"
 msgid "If home menu is focused, jump to widgets on back"
 msgstr ""
 
-msgctxt "#31625"
-msgid "Disable addons fanart"
-msgstr ""
-
 msgctxt "#31630"
 msgid "Hub widget content type"
 msgstr ""
@@ -1878,7 +1882,7 @@ msgid "Show detailed info when video starts (in seconds)"
 msgstr ""
 
 msgctxt "#31679"
-msgid "Color presets"
+msgid "Colour presets"
 msgstr ""
 
 msgctxt "#31680"
@@ -1905,16 +1909,12 @@ msgctxt "#31693"
 msgid "Online"
 msgstr ""
 
-msgctxt "#31694"
-msgid "Game studio/flag icons"
-msgstr ""
-
 msgctxt "#31699"
-msgid "Pick a color..."
+msgid "Pick a colour..."
 msgstr ""
 
 msgctxt "#31700"
-msgid "Set color"
+msgid "Set colour"
 msgstr ""
 
 msgctxt "#31703"
@@ -2031,7 +2031,7 @@ msgstr "Criador(a)"
 
 msgctxt "#31977"
 msgid "Visualisation settings"
-"Configurações de visualização"
+msgstr "Configurações de visualização"
 
 msgctxt "#31978"
 msgid "Visualisation presets"
@@ -2040,15 +2040,3 @@ msgstr "Definições de visualização"
 msgctxt "#31980"
 msgid "Pause video when opening info"
 msgstr "Pausar vídeo quando abrir informação"
-
-#~ msgctxt "#31722"
-#~ msgid "Extras"
-#~ msgstr "Extras"
-
-#~ msgctxt "#31069"
-#~ msgid "Plot-align: left"
-#~ msgstr "Alinhar plotagem: esquerda"
-
-#~ msgctxt "#31070"
-#~ msgid "Hide votes"
-#~ msgstr "Ocultar votos"

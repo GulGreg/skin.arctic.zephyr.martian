@@ -58,11 +58,11 @@ msgid "Netflix"
 msgstr "Netflix"
 
 msgctxt "#31017"
-msgid "Colored icon media flags"
-msgstr "Icônes de média colorées"
+msgid "Coloured icon media flags"
+msgstr "Icônes de média colourées"
 
 msgctxt "#31019"
-msgid "Supported Addons"
+msgid "Supported add-ons"
 msgstr "Extensions supportées"
 
 msgctxt "#31020"
@@ -232,6 +232,10 @@ msgstr "Albums aléatoires"
 msgctxt "#31068"
 msgid "Random Artists"
 msgstr "Artistes aléatoires"
+
+msgctxt "#31069"
+msgid "Next up"
+msgstr "Suivant"
 
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
@@ -438,7 +442,7 @@ msgid "Set your favourite settings"
 msgstr "Définir vos paramètres préférés"
 
 msgctxt "#31126"
-msgid "Accent colors"
+msgid "Accent colours"
 msgstr "Couleurs d'accentuation"
 
 msgctxt "#31133"
@@ -494,6 +498,10 @@ msgstr "Animer les fanarts"
 msgctxt "#31147"
 msgid "Extra Info"
 msgstr "Informations additionnelles"
+
+msgctxt "#31148"
+msgid "Wrap list"
+msgstr "Liste sans fin"
 
 msgctxt "#31149"
 msgid "Replace widget fanart with background"
@@ -888,11 +896,11 @@ msgid "Use minimal busy loader in header"
 msgstr "Utiliser un indicateur de chargement discret dans l'en-tête"
 
 msgctxt "#31238"
-msgid "Select highlight color"
+msgid "Select highlight colour"
 msgstr "Choisir la couleur de surbrillance"
 
 msgctxt "#31239"
-msgid "Current Color"
+msgid "Current Colour"
 msgstr "Couleur actuelle"
 
 msgctxt "#31240"
@@ -1135,7 +1143,7 @@ msgid "Show plot on HUB"
 msgstr "Afficher le résumé sur le HUB"
 
 msgctxt "#31300"
-msgid "Colors"
+msgid "Colours"
 msgstr "Couleurs"
 
 msgctxt "#31301"
@@ -1344,6 +1352,10 @@ msgctxt "#31366"
 msgid "Show Filenames"
 msgstr "Afficher les noms de fichiers"
 
+msgctxt "#31368"
+msgid "Show unwatched episodes count"
+msgstr "Afficher le nombre d'épisodes non visionnés"
+
 msgctxt "#31369"
 msgid "Shifted ClearArt"
 msgstr "ClearArt décalé"
@@ -1439,7 +1451,7 @@ msgid "Multi-Widgets"
 msgstr "Multi-Widgets"
 
 msgctxt "#31395"
-msgid "Gradient color for "
+msgid "Gradient colour for "
 msgstr "Dégradé de couleur pour "
 
 msgctxt "#31396"
@@ -1503,12 +1515,12 @@ msgid "Seconds"
 msgstr "Secondes"
 
 msgctxt "#31429"
-msgid "more..."
-msgstr "suite..."
+msgid "Show more..."
+msgstr "Voir plus..."
 
 msgctxt "#31430"
-msgid "item"
-msgstr "objet"
+msgid "Limited widgets have \"more items\" object"
+msgstr "Les widgets limités affichent l'incône « voir plus »"
 
 msgctxt "#31431"
 msgid "Use old Arctic Zephyr window animation"
@@ -1632,11 +1644,11 @@ msgid "disabled"
 msgstr "désactivé"
 
 msgctxt "#31468"
-msgid "Required addons"
+msgid "Required add-ons"
 msgstr "Extensions requises"
 
 msgctxt "#31469"
-msgid "Recommended addons"
+msgid "Recommended add-ons"
 msgstr "Extensions recommandées"
 
 msgctxt "#31472"
@@ -1704,7 +1716,7 @@ msgid "CPU"
 msgstr "CPU"
 
 msgctxt "#31489"
-msgid "Underlined homemenu items"
+msgid "Underlined home menu items"
 msgstr "Souligner le menu sélectionné sur la page d'accueil"
 
 msgctxt "#31492"
@@ -1950,10 +1962,6 @@ msgctxt "#31623"
 msgid "If home menu is focused, jump to widgets on back"
 msgstr "Sur BACK dans le menu, va dans le widget"
 
-msgctxt "#31625"
-msgid "Disable addons fanart"
-msgstr "Désactiver les fanart fournis avec les extensions"
-
 msgctxt "#31630"
 msgid "Hub widget content type"
 msgstr "Hub type de contenu du widget"
@@ -2023,7 +2031,7 @@ msgid "Show detailed info when video starts (in seconds)"
 msgstr "Afficher les informations en début de lecture (en secondes)"
 
 msgctxt "#31679"
-msgid "Color presets"
+msgid "Colour presets"
 msgstr "Préréglages des couleurs"
 
 msgctxt "#31680"
@@ -2050,16 +2058,12 @@ msgctxt "#31693"
 msgid "Online"
 msgstr "Online"
 
-msgctxt "#31694"
-msgid "Game studio/flag icons"
-msgstr "Icônes des studios de jeux"
-
 msgctxt "#31699"
-msgid "Pick a color..."
+msgid "Pick a colour..."
 msgstr "Choisir une couleur..."
 
 msgctxt "#31700"
-msgid "Set color"
+msgid "Set colour"
 msgstr "Définir la couleur"
 
 msgctxt "#31702"
@@ -2293,15 +2297,15 @@ msgid "Simple Gray"
 msgstr "Gris simple"
 
 msgctxt "#31965"
-msgid "Highlight color"
+msgid "Highlight colour"
 msgstr "Couleur de surbrillance"
 
 msgctxt "#31966"
-msgid "Gradient color"
+msgid "Gradient colour"
 msgstr "Couleurs du dégradé"
 
 msgctxt "#31967"
-msgid "Customise color settings"
+msgid "Customise colour settings"
 msgstr "Personnaliser les couleurs"
 
 msgctxt "#31968"
@@ -2360,10 +2364,6 @@ msgctxt "#31981"
 msgid "Default (Unicode)"
 msgstr "Defaut (Unicode)"
 
-msgctxt "#31982"
-msgid "Lock position of focused item"
-msgstr "Figer la position de l'élément sélectionné"
-
 msgctxt "#31983"
 msgid "User rating overrides Kodi rating"
 msgstr "Remplacer la note Kodi par votre note personnelle"
@@ -2409,7 +2409,7 @@ msgid "Prefer online artwork"
 msgstr "Privilégier les illustrations en ligne"
 
 msgctxt "#31993"
-msgid "Timed change of color scheme"
+msgid "Timed change of colour scheme"
 msgstr "Changement des couleurs planifié"
 
 #~ msgctxt "#31722"
